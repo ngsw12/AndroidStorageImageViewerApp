@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ストレージ画像</string>
+
+    <string name="photo_description">picture</string>
+    <string name="actionbar_list">リスト</string>
+    <string name="actionbar_detail">詳細</string>
+    <string name="permission_denied">権限がありません</string>
+    <string name="timestamp_hint">撮影日時</string>
+    <string name="gps_hint">GPS</string>
+    <string name="timestamp_format">yyyy/MM/dd - HH:mm:ss</string>
+</resources>
